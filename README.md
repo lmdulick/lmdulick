@@ -1,16 +1,24 @@
-### Hi there 👋
+# Lauren Dulick
+@lmdulick
 
-<!--
-**lmdulick/lmdulick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email: laurendulick@ufl.edu
 
-Here are some ideas to get you started:
+Phone: (314) 707-0914
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+E-Portfolio: https://ldulick17.wixsite.com/e-portfolio
+
+Linkedin: www.linkedin.com/in/laurendulick
+
+
+# Education
+University of Florida (May 2022 - 2026)
+
+Bachelor of Engineering: Computer Science
+
+Minor: Engineering Innovation
+
+Certificates: Artificial Intelligence Certificate
+
+
+# Programming Languages
+Proficient in: C++, Python, ARM Assembly Language
