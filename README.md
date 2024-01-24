@@ -11,14 +11,14 @@ Linkedin: www.linkedin.com/in/laurendulick
 
 
 # Education
-University of Florida (May 2022 - 2026)
+University of Florida (August 2022 - May 2026)
 
 Bachelor of Engineering: Computer Science
 
-Minor: Engineering Innovation
-
-Certificates: Artificial Intelligence Certificate
+Certificates: Artificial Intelligence Fundamentals and Applications, Engineering Innovation, Engineering Leadership
 
 
 # Programming Languages
 Proficient in: C++, Python, ARM Assembly Language
+
+Learning: MATLAB, JavaScript
