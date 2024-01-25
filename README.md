@@ -21,4 +21,4 @@ Certificates: Artificial Intelligence Fundamentals and Applications, Engineering
 # Programming Languages
 Proficient in: C++, Python, ARM Assembly Language
 
-Learning: MATLAB, JavaScript
+Learning: MATLAB, JavaScript, HTML
