@@ -1,5 +1,5 @@
 # Lauren Dulick
-@lmdulick
+_@lmdulick_
 
 Phone: (314) 707-0914
 
