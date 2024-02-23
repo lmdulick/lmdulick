@@ -25,3 +25,11 @@ Proficient in: C++, Python, ARM Assembly Language
 Learning: MATLAB, JavaScript, CSS, HTML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmdulick&layout=compact&theme=vision-friendly-light)](https://github.com/lmdulick/github-readme-stats)
+
+# Current Projects
+GatorGoalMate - Social Media App
+- Presentation Link: https://youtu.be/Cqd6nSOu-go
+
+Trip Preferencing Visualizer - Web Application for UF's Center for Outdoor Recreation and Education
+- GitHub Repository: https://github.com/ramawama/TripPrefVisualizer/
+
