@@ -27,7 +27,7 @@ Learning: MATLAB, JavaScript, CSS, HTML
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmdulick&layout=compact&theme=vision-friendly-light)](https://github.com/lmdulick/github-readme-stats)
 
 # Current Projects
-GatorGoalMate - Social Media App
+GatorGoalMate - Social Media Application
 - Presentation Link: https://youtu.be/Cqd6nSOu-go
 
 Trip Preferencing Visualizer - Web Application for UF's Center for Outdoor Recreation and Education
