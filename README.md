@@ -22,4 +22,4 @@ Relevant Coursework: Data Structures and Algorithms, Computer Organization, Soft
 # Programming Languages
 Proficient in: C++, Python, ARM Assembly Language
 
-Learning: MATLAB, JavaScript, CSS, HTML, Jupyter Notebook
+Learning: MATLAB, JavaScript, CSS, HTML
