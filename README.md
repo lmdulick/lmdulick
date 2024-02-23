@@ -24,4 +24,4 @@ Proficient in: C++, Python, ARM Assembly Language
 
 Learning: MATLAB, JavaScript, CSS, HTML
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmdulick&layout=compact&theme=vision-friendly-dark)](https://github.com/lmdulick/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmdulick&layout=compact&theme=vision-friendly-light)](https://github.com/lmdulick/github-readme-stats)
