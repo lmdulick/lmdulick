@@ -13,14 +13,16 @@ Linkedin: www.linkedin.com/in/laurendulick
 # Education
 University of Florida (August 2022 - May 2026)
 
-Bachelor of Engineering: Computer Science
+Bachelor of Science: Computer Science
 
 Certificates: Artificial Intelligence Fundamentals and Applications, Engineering Innovation, Engineering Leadership, NVIDIA Fundamentals of Deep Learning
 
 # Programming Languages
-Proficient in: C++, Python, ARM Assembly Language
+Proficient: C++, Python
 
-Learning: MATLAB, JavaScript, CSS, HTML
+Intermediate: JavaScript, CSS, React.JS, ARM Assembly Language, MATLAB
+
+Beginner: HTML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmdulick&layout=compact&theme=vision-friendly-light)](https://github.com/lmdulick/github-readme-stats)
 
