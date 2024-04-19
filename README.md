@@ -1,28 +1,28 @@
 # Lauren Dulick
 _@lmdulick_
 
-Phone: (314) 707-0914
+Phone:  (314) 707-0914
 
-Email: laurendulick@ufl.edu
+Email:  laurendulick@ufl.edu
 
-E-Portfolio: https://ldulick17.wixsite.com/e-portfolio
+E-Portfolio:  https://ldulick17.wixsite.com/e-portfolio
 
-Linkedin: www.linkedin.com/in/laurendulick
+Linkedin:  www.linkedin.com/in/laurendulick
 
 
 # Education
-University of Florida (August 2022 - May 2026)
+University of Florida  (August 2022 - May 2026)
 
-Bachelor of Science: Computer Science
+Bachelor of Science:  Computer Science
 
-Certificates: Artificial Intelligence Fundamentals and Applications, Engineering Innovation, Engineering Leadership, NVIDIA Fundamentals of Deep Learning
+Certificates:  Artificial Intelligence Fundamentals and Applications, Engineering Innovation, Engineering Leadership, NVIDIA Fundamentals of Deep Learning
 
 # Programming Languages
-Proficient: C++, Python
+Proficient:  C++, Python
 
-Intermediate: JavaScript, CSS, React.JS, ARM Assembly Language, MATLAB
+Intermediate:  JavaScript, CSS, React.JS, ARM Assembly Language, MATLAB
 
-Beginner: Jupyter Notebook, HTML
+Beginner:  Jupyter Notebook, HTML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmdulick&layout=compact&theme=vision-friendly-light)](https://github.com/lmdulick/github-readme-stats)
 
