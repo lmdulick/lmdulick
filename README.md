@@ -22,7 +22,7 @@ Proficient:  C++, Python
 
 Intermediate:  JavaScript, CSS, React.JS, ARM Assembly Language, MATLAB
 
-Beginner:  Jupyter Notebook
+Beginner:  Jupyter Notebook, Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmdulick&layout=compact&theme=vision-friendly-light)](https://github.com/lmdulick/github-readme-stats)
 
