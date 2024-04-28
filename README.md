@@ -27,9 +27,9 @@ Beginner:  Jupyter Notebook, Java
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmdulick&layout=compact&theme=vision-friendly-light)](https://github.com/lmdulick/github-readme-stats)
 
 # Current Projects
-GatorGoalMate - Social Media Application
-- Presentation Link: https://youtu.be/Cqd6nSOu-go
+GatorGoalMate - Social Media Web Application for UF Students
+- Presentation Link: [https://youtu.be/Cqd6nSOu-go](https://github.com/lmdulick/GatorGoalMate)
 
-Trip Preferencing Visualizer - Web Application for UF's Center for Outdoor Recreation and Education
-- GitHub Repository: https://github.com/ramawama/TripPrefVisualizer/
+CORE Trip Preference and Schedule Visualizer - Web Application for UF's Center for Outdoor Recreation and Education (CORE)
+- GitHub Repository: [https://github.com/ramawama/TripPrefVisualizer/](https://github.com/lmdulick/TripPrefVisualizer)
 
