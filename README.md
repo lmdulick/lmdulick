@@ -28,7 +28,7 @@ Beginner:  Jupyter Notebook, Java
 
 # Current Projects
 GatorGoalMate - Social Media Web Application for UF Students
-- Presentation Link: [https://youtu.be/Cqd6nSOu-go](https://github.com/lmdulick/GatorGoalMate)
+- GitHub Repository: [https://youtu.be/Cqd6nSOu-go](https://github.com/lmdulick/GatorGoalMate)
 
 CORE Trip Preference and Schedule Visualizer - Web Application for UF's Center for Outdoor Recreation and Education (CORE)
 - GitHub Repository: [https://github.com/ramawama/TripPrefVisualizer/](https://github.com/lmdulick/TripPrefVisualizer)
