@@ -18,9 +18,9 @@ Bachelor of Science:  Computer Science
 Certificates:  Artificial Intelligence Fundamentals and Applications, Engineering Innovation, Engineering Leadership, NVIDIA Fundamentals of Deep Learning
 
 # Programming Languages
-Proficient:  C++, Python, JavaScript
+Proficient:  C++, Python
 
-Intermediate:  CSS, React.JS, ARM Assembly Language, MATLAB
+Intermediate:  JavaScript, CSS, React.JS, ARM Assembly Language, MATLAB
 
 Beginner:  Jupyter Notebook, Java
 
