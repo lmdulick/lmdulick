@@ -33,3 +33,6 @@ GatorGoalMate - Social Media Web Application for UF Students
 CORE Trip Preference and Schedule Visualizer - Web Application for UF's Center for Outdoor Recreation and Education (CORE)
 - GitHub Repository: https://github.com/lmdulick/TripPrefVisualizer
 
+AI Applications for Psychiatry - Machine Learning Model for Analyzing the Impact of Homelife Variables on Depression
+- GitHub Repository: https://github.com/lmdulick/AI-Applications-for-Psychiatry
+
