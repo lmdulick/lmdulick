@@ -1,8 +1,6 @@
 # Lauren Dulick
 _@lmdulick_
 
-Phone:  (314) 707-0914
-
 Email:  laurendulick@ufl.edu
 
 E-Portfolio:  https://ldulick17.wixsite.com/e-portfolio
